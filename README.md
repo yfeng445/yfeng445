@@ -6,7 +6,7 @@
     <a href=""><img src="https://img.shields.io/badge/YouTube-Steam-c32136" /></a> 
     <a href=""><img src="https://img.shields.io/badge/Website-NGA-8c36db" /></a> 
     <a href=""><img src="https://img.shields.io/badge/WeChat-ChipHell-07c160" /></a> 
-    <a href=""><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" />www.google.ca</a> 
+    <a href="www.google.ca"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a> 
     
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" /> 
