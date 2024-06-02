@@ -3,9 +3,9 @@
   <head>
   </head>
   <body>
-    My PC Builds:
-    <a href="./resources/ATX.md">ATX</a>
-    <a href="./resources/ITX.md">ITX</a>
+    PC Builds:
+    <p><a href="./resources/ATX.md">ATX</a></p>
+    <p><a href="./resources/ITX.md">ITX</a></p>
   </body>
 </html>
 
