@@ -3,7 +3,8 @@
   <head>
   </head>
   <body>
-    <p>If you are not redirected automatically, follow this <a href="./resources/details.md">link to the detailed page</a>.</p>
+    <p><a href="./resources/ATX.md">ATX</a>.</p>
+    <p><a href="./resources/ITX.md">ITX</a>.</p>
   </body>
 </html>
 
