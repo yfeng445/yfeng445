@@ -6,6 +6,7 @@
 <details>
 <summary>仓鼠党的EATX</summary>
 <p>
+  
 **CPU**: Intel i9-12900K  
 **AIO**: Corsair H150i ELITE CAPELLIX & LCD Kit  
 **MB**: Gigabyte Z790 Aorus Master  
@@ -49,13 +50,15 @@ Beyerdynamic Xelento + OC studio AUX
 **DAP**: A&ultima SP2000  
 **Speakers**: PSI Audio A17-M *2  
 **Decode**: HIBIKI String Decoding System  
-**PreAMP**: SMSL HO200  
+**PreAMP**: SMSL HO200
+  
 </p>
 </details>
 
 <details>
 <summary>9L ITX</summary>
 <p>
+  
 **CPU**: Intel i3-12100F  
 **AIO**: Deepcool LT520  
 **MOBO**: Gigabyte Z690i Aorus Ultra Plus  
@@ -73,6 +76,7 @@ Noctua A12x25
 **Monitor**: FFALCON R21U81  
 **Keyboard**: ROG Azoth  
 **Mouse**: Logitech PRO WIRELESS  
+
 </p>
 </details>
 
