@@ -3,6 +3,7 @@
   <head>
   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <style>
         .qr {
             font-size: 0;
@@ -20,6 +21,7 @@
             background-color: white;
         }
     </style>
+    
   </head>
   <body>
     <div class="qr">
@@ -51,7 +53,7 @@
     </div>
 <div></div>
 <details>
-<summary>仓鼠党的EATX</summary>
+<summary>EATX</summary>
 <p>
   
 **CPU**: 
@@ -80,7 +82,8 @@
 - Fanxiang S790 4TB *2
   
 **HDD**: 
-- TOSHIBA MG08ACA 16TB *2
+- TOSHIBA MG08ACA16TE
+- TOSHIBA MG08ACA14TE *2
 - WD HC530 14TB
 - TOSHIBA MG04ACA 4TB
   
@@ -106,27 +109,6 @@
   
 **Mouse**: 
 - Logitech PRO X SUPERLIGHT
-  
-**IEM**: 
-- 64 Audio U18S & PW Audio 1960s
-- Inear ProPhile 8s & Brise Audio Yatono
-- Beyerdynamic Xelento & OC studio AUX
-  
-**Headphone**: 
-- Beyerdynamic DT 770 Pro
-- Audio-Technica R70X
-  
-**DAP**:
-- A&ultima SP2000
-  
-**Speakers**:
-- PSI Audio A17-M *2
-  
-**Decode**:
-- HIBIKI String Decoding System
-  
-**PreAMP**:
-- SMSL HO200
   
 </p>
 </details>
@@ -173,9 +155,35 @@ Corsair SF750
 **Mouse**:
 - Logitech PRO WIRELESS
    
+</p>
+</details>
+<details>
+<summary>Audio</summary>
+<p>
+**IEM**: 
+- 64 Audio U18S & PW Audio 1960s
+- Inear ProPhile 8s & Brise Audio Yatono
+- Beyerdynamic Xelento Remote & OC studio AUX
+~~- 64 Audio Trio & Toxic Cable SW22v2~~
+- JVC HA-FW10000 & Toxic Cable BW26
+  
+**Headphone**: 
+- Beyerdynamic DT 770 Pro
+- Audio-Technica R70X
+  
+**DAP**:
+- A&ultima SP2000
+  
+**Speakers**:
+- PSI Audio A17-M *2
+  
+**Decode**:
+- HIBIKI String Decoding System
+  
+**PreAMP**:
+- SMSL HO200
 **Headphone**:
-- Astell&KernT5p MKII & Bispa JUN
-
+- Astell&KernT5p MKII & Bispa JUN 
 </p>
 </details>
 
