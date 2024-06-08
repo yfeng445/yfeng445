@@ -4,21 +4,26 @@
         <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+      
         .qr {
             font-size: 0;
         }
+        
         .black,
         .white {
             display: inline-block;
             width: 10px;
             height: 10px;
         }
+        
         .black {
             background-color: black;
         }
+        
         .white {
             background-color: white;
         }
+        
     </style>
   </head>
   <body>
