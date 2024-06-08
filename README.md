@@ -3,7 +3,7 @@
   <head>
   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <!--
     <style>
         .qr {
             font-size: 0;
@@ -21,6 +21,7 @@
             background-color: white;
         }
     </style>
+    ->
     
   </head>
   <body>
@@ -160,19 +161,80 @@ Corsair SF750
 <details>
 <summary>Audio</summary>
 <p>
-**IEM**: 
-- 64 Audio U18S & PW Audio 1960s
-- Inear ProPhile 8s & Brise Audio Yatono
-- Beyerdynamic Xelento Remote & OC studio AUX
-~~- 64 Audio Trio & Toxic Cable SW22v2~~
-- JVC HA-FW10000 & Toxic Cable BW26
   
-**Headphone**: 
-- Beyerdynamic DT 770 Pro
+**IEMs**: 
+- Audio-Technica ATH-CKR9
+- Audio-Technica ATH-CKR10
+- Audio-Technica ATH-EM7X
+- Final Audio E500
+- Final Audio E3000
+- Final Audio E3000 Momoiro Clover Z edition 
+- Final Audio E5000
+- Final Audio F3100
+- Final Audio Heaven ii
+- Final Audio Make 3
+- Final Audio TANE
+- Final Audio A8000
+- Astell&Kern T8iE MKII
+- Astell&Kern T9iE
+- Beyerdynamic Xelento Remote
+- Noble Audio Khan
+- Inear ProPhile 8s
+- 64 Audio U2
+- 64 Audio A2
+- 64 Audio Trio
+- 64 Audio Tia Fourte Noir
+- 64 Audio U18T
+- 64 Audio U18S
+- JVC HA-FW10000
+- FitEar TOGO! 223
+- Tanchjim Oxygen
+- B&O A8
+
+**Cables**:
+- PW Audio 1960s 4 Wire
+- PW Audio Monile Shielding 4 Wire
+- PW Audio Antigona 4 Wire
+- Effect Audio Cleopatra
+- Effect Audio Origin
+- Brise Audio Yatono
+- OC Studio MK5.5
+- OC Studio UEX
+- Toxic Cable Black Widow 26 V1
+- Toxic Cable Black Widow 22 V2
+- Toxic Cable Silver Widow 22 V2
+- Rosenkranz Ocatave
+- Rosenkranz Rainbow
+- Rosenkranz Contrast
+- Rosenkranz Germany
+- Wagnus Mesospheric
+- Wagnus OmniSheep
+- Bispa JUN
+- L&Y Audio LY06 pro
+
+
+**Headphones**: 
+- Audio-Technica ATH-MSR7
 - Audio-Technica R70X
+- Sennheiser HD 800
+- Beyerdynamic DT 770 Pro
+- Astell&KernT5p MKII
+- Focal Elegia
+- Philips Audio SPH9500
+
   
-**DAP**:
+**DAPs**:
+- Astell&Kern AK70 MKII
+- Astell&Kern Kann Cube
+- A&norma SR15
+- A&norma SR25
+- A&futura SE200
+- A&ultima SP1000
 - A&ultima SP2000
+- Astell&Kern HC2 FripSide edit.
+- LuxuryPrecision W1
+- LuxuryPrecision W2
+- B&O BEOSound 2
   
 **Speakers**:
 - PSI Audio A17-M *2
@@ -182,8 +244,7 @@ Corsair SF750
   
 **PreAMP**:
 - SMSL HO200
-**Headphone**:
-- Astell&KernT5p MKII & Bispa JUN 
+
 </p>
 </details>
 
