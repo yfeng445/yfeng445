@@ -6,13 +6,11 @@
     <style>
         .qr {
             font-size: 0;
-            /* Remove extra spacing between inline-blocks */
         }
         .black,
         .white {
             display: inline-block;
             width: 10px;
-            /* Adjust the size as needed */
             height: 10px;
         }
         .black {
