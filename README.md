@@ -120,14 +120,14 @@ Corsair SF750
 <p>
   
 **IEMs**: 
-- 64 Audio A18S
 - 64 Audio A2
+- 64 Audio U2e
 - 64 Audio Nio
-- 64 Audio Tia Fourté Noir
 - 64 Audio Trio
+- 64 Audio Tia Fourté Noir
+- 64 Audio A18S
 - 64 Audio U18S
 - 64 Audio U18T
-- 64 Audio U2e
 - Acoustune 1695TI
 - Astell&Kern T8iE MKII
 - Astell&Kern T9iE
