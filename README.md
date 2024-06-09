@@ -94,7 +94,7 @@
 - WD SN850X 2TB
   
 **PSU**: 
-Corsair SF750  
+- Corsair SF750  
 
 **FAN**: 
 - Corsair AF120
