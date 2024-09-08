@@ -75,7 +75,7 @@
 <p>
   
 **CPU**: 
-- Intel i3-12100F
+- Intel I9 12900K
   
 **AIO**: 
 - Deepcool LT520
