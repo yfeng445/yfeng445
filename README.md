@@ -10,10 +10,10 @@
 <p>
   
 **CPU**: 
-- Intel i9-12900K
+- AMD R9 7950X
   
 **MB**: 
-- Gigabyte Z790 Aorus Master
+- ROG CORSAIR X670E EXTREME
   
 **MEM**:
 - G.Skill Trident Z5 16G*4 @6000C36
