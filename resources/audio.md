@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-<details>
-<summary>Audio</summary>
-<p>
   
-**IEMs**: 
+<details>
+<summary>IEMs: </summary>
+<p>
 - 64 Audio A2
 - 64 Audio U2e
 - 64 Audio Nio
@@ -73,8 +72,12 @@
 - Vision Ears Elysium
 - Vision Ears Erlkonig
 - Vision Ears VE8
+</p>
+</details>
 
-**Cables**:
+<details>
+<summary>Cables: </summary>
+<p>
 - Brise Audio SRT-7
 - Brise Audio Yatono
 - Crystal Cable Double Duet
@@ -103,8 +106,12 @@
 - Wagnus Mesospheric
 - Wagnus OmniSheep
 - Bispa JUN
+</p>
+</details>
 
-**Headphones**: 
+<details>
+<summary>Headphones: </summary>
+<p>
 - ABYSS AB1266 Phi TC
 - AKG K701
 - AKG K712
@@ -120,8 +127,12 @@
 - Philips Audio SPH9500
 - RAAL SR-1B
 - Sennheiser HD 800
+</p>
+</details>
 
-**DAPs**:
+<details>
+<summary>DAPs: </summary>
+<p>
 - A&futura SE200
 - A&norma SR15
 - A&norma SR25 mkii
@@ -132,23 +143,31 @@
 - Astell&Kern Kann Cube
 - Astell&Kern SA700
 - B&O BEOSound 2
+- LUXURY&PRECISION P6
 - LUXURY&PRECISION P6 PRO
 - LUXURY&PRECISION W1
 - LUXURY&PRECISION W2
 - Sony NW-WM1Z
 - Sony NW-ZX2
 - Sony NW-ZX300
-
-**Speakers**:
-- PSI Audio A17-M *2
-
-**DAC**:
-- HIBIKI String Decoding System
-
-**PreAMP**:
-- SMSL HO200
-
 </p>
 </details>
+
+<details>
+<summary>Speakers: </summary>
+<p>
+- IK Multimedia iLoud Micro Monitor
+- PSI Audio A17-M
+</p>
+</details>
+
+<details>
+<summary>DAC: </summary>
+<p>
+- SMSL HO200
+- HIBIKI String Decoding System
+</p>
+</details>
+
   </body>
 </html>
