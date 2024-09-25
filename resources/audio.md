@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-  <body>
-  
+已退烧
+本表仅用于记录曾经听过的设备
+
 <details>
 <summary>IEMs: </summary>
 <p>
+
 - 64 Audio A2
 - 64 Audio U2e
 - 64 Audio Nio
@@ -72,12 +68,14 @@
 - Vision Ears Elysium
 - Vision Ears Erlkonig
 - Vision Ears VE8
+
 </p>
 </details>
 
 <details>
 <summary>Cables: </summary>
 <p>
+
 - Brise Audio SRT-7
 - Brise Audio Yatono
 - Crystal Cable Double Duet
@@ -106,12 +104,14 @@
 - Wagnus Mesospheric
 - Wagnus OmniSheep
 - Bispa JUN
+
 </p>
 </details>
 
 <details>
 <summary>Headphones: </summary>
 <p>
+
 - ABYSS AB1266 Phi TC
 - AKG K701
 - AKG K712
@@ -127,12 +127,14 @@
 - Philips Audio SPH9500
 - RAAL SR-1B
 - Sennheiser HD 800
+
 </p>
 </details>
 
 <details>
 <summary>DAPs: </summary>
 <p>
+
 - A&futura SE200
 - A&norma SR15
 - A&norma SR25 mkii
@@ -150,24 +152,27 @@
 - Sony NW-WM1Z
 - Sony NW-ZX2
 - Sony NW-ZX300
+
 </p>
 </details>
 
 <details>
 <summary>Speakers: </summary>
 <p>
+
 - IK Multimedia iLoud Micro Monitor
 - PSI Audio A17-M
+
 </p>
 </details>
 
 <details>
 <summary>DAC: </summary>
 <p>
+
 - SMSL HO200
 - HIBIKI String Decoding System
+
 </p>
 </details>
 
-  </body>
-</html>
