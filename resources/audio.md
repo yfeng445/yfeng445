@@ -1,5 +1,5 @@
 已退烧
-本表仅用于记录曾经听过的设备
+本表仅用于记录曾听过且还有印象的设备
 
 <details>
 <summary>IEMs: </summary>
