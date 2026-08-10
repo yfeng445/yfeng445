@@ -21,7 +21,7 @@ jobs:
         run: node .github/scripts/generate-wakatime-card.mjs
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_RANGE: last_30_days
+          WAKATIME_RANGE: all_time
 
       - name: Commit WakaTime metrics
         run: |
