@@ -1,56 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="179" class="">
-    <defs>
-        <style/>
-    </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.chart-bars .entry,.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;font-size:10px;color:#666}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
-    <style/>
-    <foreignObject x="0" y="0" width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M2.75 1a.75.75 0 000 1.5h.75v1.25a4.75 4.75 0 001.9 3.8l.333.25c.134.1.134.3 0 .4l-.333.25a4.75 4.75 0 00-1.9 3.8v1.25h-.75a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5h-.75v-1.25a4.75 4.75 0 00-1.9-3.8l-.333-.25a.25.25 0 010-.4l.333-.25a4.75 4.75 0 001.9-3.8V2.5h.75a.75.75 0 000-1.5H2.75zM11 2.5H5v1.25a3.25 3.25 0 001.3 2.6l.333.25c.934.7.934 2.1 0 2.8l-.333.25a3.25 3.25 0 00-1.3 2.6v1.25h6v-1.25a3.25 3.25 0 00-1.3-2.6l-.333-.25a1.75 1.75 0 010-2.8l.333-.25a3.25 3.25 0 001.3-2.6V2.5z"/>
-                    </svg>
-                    WakaTime (over last month)
-                </h2>
-                <div class="row">
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
-                            </svg>
-                            ~NaN coding hours recorded
-                        </div>
-                    </section>
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
-                            </svg>
-                            ~NaN hours of coding per day
-                        </div>
-                    </section>
-                </div>
-                <div class="row">
-                    <section class="column chart">
-                        <h3>Language activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <div class="empty">No activity</div>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="column chart">
-                        <h3>Operating systems</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <div class="empty">No activity</div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </section>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-    </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="286" viewBox="0 0 720 286" role="img" aria-labelledby="title desc">
+  <title id="title">WakaTime coding activity</title>
+  <desc id="desc">Top programming languages and operating systems for since May 20 2024</desc>
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; }
+    .title { fill: #f0f6fc; font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .subtitle, .value { fill: #8b949e; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .heading { fill: #58a6ff; font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #c9d1d9; font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .track { fill: #21262d; }
+    @media (prefers-color-scheme: light) {
+      .card { fill: #ffffff; stroke: #d0d7de; }
+      .title { fill: #1f2328; }
+      .subtitle, .value { fill: #656d76; }
+      .heading { fill: #0969da; }
+      .label { fill: #1f2328; }
+      .track { fill: #eaeef2; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="719" height="285" rx="10"/>
+  <text class="title" x="28" y="38">WakaTime</text>
+  <text class="subtitle" x="28" y="61">since May 20 2024 · 736 hrs total · 1 hr 51 mins daily average</text>
+  <line x1="28" y1="78" x2="692" y2="78" stroke="#30363d"/>
+  <text class="heading" x="28" y="101">Top languages</text>
+  <text class="heading" x="382" y="101">Work on · platforms</text>
+
+    <text class="label" x="28" y="120">Python</text>
+    <text class="value" x="338" y="120" text-anchor="end">369h · 48%</text>
+    <rect class="track" x="28" y="128" width="310" height="7" rx="3.5"/>
+    <rect x="28" y="128" width="147.3" height="7" rx="3.5" fill="#58a6ff"/>
+    <text class="label" x="28" y="151">Java</text>
+    <text class="value" x="338" y="151" text-anchor="end">153h · 20%</text>
+    <rect class="track" x="28" y="159" width="310" height="7" rx="3.5"/>
+    <rect x="28" y="159" width="61.4" height="7" rx="3.5" fill="#a371f7"/>
+    <text class="label" x="28" y="182">C</text>
+    <text class="value" x="338" y="182" text-anchor="end">19h 45m · 2.5%</text>
+    <rect class="track" x="28" y="190" width="310" height="7" rx="3.5"/>
+    <rect x="28" y="190" width="7.9" height="7" rx="3.5" fill="#3fb950"/>
+    <text class="label" x="28" y="213">Cuda</text>
+    <text class="value" x="338" y="213" text-anchor="end">18h 32m · 2.4%</text>
+    <rect class="track" x="28" y="221" width="310" height="7" rx="3.5"/>
+    <rect x="28" y="221" width="7.4" height="7" rx="3.5" fill="#d29922"/>
+    <text class="label" x="28" y="244">C++</text>
+    <text class="value" x="338" y="244" text-anchor="end">14h 51m · 1.9%</text>
+    <rect class="track" x="28" y="252" width="310" height="7" rx="3.5"/>
+    <rect x="28" y="252" width="5.9" height="7" rx="3.5" fill="#f778ba"/>
+
+    <text class="label" x="382" y="120">Windows</text>
+    <text class="value" x="692" y="120" text-anchor="end">603h · 78%</text>
+    <rect class="track" x="382" y="128" width="310" height="7" rx="3.5"/>
+    <rect x="382" y="128" width="240.8" height="7" rx="3.5" fill="#58a6ff"/>
+    <text class="label" x="382" y="151">macOS</text>
+    <text class="value" x="692" y="151" text-anchor="end">102h · 13%</text>
+    <rect class="track" x="382" y="159" width="310" height="7" rx="3.5"/>
+    <rect x="382" y="159" width="40.9" height="7" rx="3.5" fill="#a371f7"/>
+    <text class="label" x="382" y="182">Linux</text>
+    <text class="value" x="692" y="182" text-anchor="end">61h 23m · 7.9%</text>
+    <rect class="track" x="382" y="190" width="310" height="7" rx="3.5"/>
+    <rect x="382" y="190" width="24.5" height="7" rx="3.5" fill="#3fb950"/>
 </svg>
