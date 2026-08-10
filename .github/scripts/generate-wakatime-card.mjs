@@ -40,7 +40,7 @@ const secondsFor = (item) => {
   return Number(item.ai_coding_seconds || 0) + Number(item.manual_coding_seconds || 0);
 };
 
-const normalize = (items, { ignored = new Set(), limit = 5 } = {}) => {
+const normalize = (items, { ignored = new Set(), limit = 5, minPercent = 0 } = {}) => {
   const candidates = (items || [])
     .filter((item) => !ignored.has(item.name.toLowerCase()))
     .map((item) => ({ ...item, seconds: secondsFor(item) }))
@@ -48,14 +48,15 @@ const normalize = (items, { ignored = new Set(), limit = 5 } = {}) => {
   const denominator = candidates.reduce((sum, item) => sum + item.seconds, 0);
   return candidates
     .sort((a, b) => b.seconds - a.seconds)
-    .slice(0, limit)
     .map((item) => ({
-    ...item,
-    percent: denominator > 0 ? (item.seconds / denominator) * 100 : 0,
-  }));
+      ...item,
+      percent: denominator > 0 ? (item.seconds / denominator) * 100 : 0,
+    }))
+    .filter((item) => item.percent >= minPercent)
+    .slice(0, limit);
 };
 
-const languages = normalize(data.languages, { ignored: ignoredLanguages, limit: 5 });
+const languages = normalize(data.languages, { ignored: ignoredLanguages, limit: 5, minPercent: 1 });
 const operatingSystems = normalize(data.operating_systems, {
   ignored: new Set(["unknown os"]),
   limit: 3,
