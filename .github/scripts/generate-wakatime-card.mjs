@@ -41,20 +41,17 @@ const secondsFor = (item) => {
 };
 
 const normalize = (items, { ignored = new Set(), limit = 5 } = {}) => {
-  const filtered = (items || [])
+  const candidates = (items || [])
     .filter((item) => !ignored.has(item.name.toLowerCase()))
     .map((item) => ({ ...item, seconds: secondsFor(item) }))
-    .filter((item) => Number.isFinite(item.seconds) && item.seconds > 0)
+    .filter((item) => Number.isFinite(item.seconds) && item.seconds > 0);
+  const denominator = candidates.reduce((sum, item) => sum + item.seconds, 0);
+  return candidates
     .sort((a, b) => b.seconds - a.seconds)
-    .slice(0, limit);
-  const denominator = (items || []).reduce((sum, item) => sum + secondsFor(item), 0);
-  return filtered.map((item) => ({
+    .slice(0, limit)
+    .map((item) => ({
     ...item,
-    percent: Number.isFinite(Number(item.percent))
-      ? Number(item.percent)
-      : denominator > 0
-        ? (item.seconds / denominator) * 100
-        : 0,
+    percent: denominator > 0 ? (item.seconds / denominator) * 100 : 0,
   }));
 };
 
@@ -85,8 +82,12 @@ const formatDuration = (seconds) => {
 const formatPercent = (percent) => `${percent.toFixed(percent >= 10 ? 0 : 1)}%`;
 const rangeLabel = data.human_readable_range || data.range?.replaceAll("_", " ") || "recent activity";
 const totalSeconds = (data.operating_systems || []).reduce((sum, item) => sum + secondsFor(item), 0);
-const totalLabel = data.human_readable_total || formatDuration(totalSeconds);
-const dailyLabel = data.human_readable_daily_average || "—";
+const totalLabel = data.human_readable_total_including_other_language
+  || data.human_readable_total
+  || formatDuration(totalSeconds);
+const dailyLabel = data.human_readable_daily_average_including_other_language
+  || data.human_readable_daily_average
+  || "—";
 const colors = ["#58a6ff", "#a371f7", "#3fb950", "#d29922", "#f778ba"];
 
 const renderRows = (items, x, width) => items.map((item, index) => {
