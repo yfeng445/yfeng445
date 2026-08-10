@@ -14,6 +14,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Generate WakaTime metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime-metrics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: yfeng445
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, languages-graphs, os, os-graphs
+          plugin_wakatime_languages_other: no
+          plugin_wakatime_languages_ignored: Other, Markdown, Text, JSON, Git Config, YAML, TOML, XML, Image (svg), SSH Config
