@@ -19,19 +19,19 @@
   </style>
   <rect class="card" x="0.5" y="0.5" width="719" height="285" rx="10"/>
   <text class="title" x="28" y="38">WakaTime</text>
-  <text class="subtitle" x="28" y="61">since May 20 2024 · 785 hrs 10 mins total · 1 hr 58 mins daily average</text>
+  <text class="subtitle" x="28" y="61">since May 20 2024 · 793 hrs 28 mins total · 1 hr 59 mins daily average</text>
   <line x1="28" y1="78" x2="692" y2="78" stroke="#30363d"/>
   <text class="heading" x="28" y="101">Top languages</text>
   <text class="heading" x="382" y="101">Work on · platforms</text>
 
     <text class="label" x="28" y="120">Python</text>
-    <text class="value" x="338" y="120" text-anchor="end">371h · 60%</text>
+    <text class="value" x="338" y="120" text-anchor="end">374h · 60%</text>
     <rect class="track" x="28" y="128" width="310" height="7" rx="3.5"/>
-    <rect x="28" y="128" width="186.8" height="7" rx="3.5" fill="#58a6ff"/>
+    <rect x="28" y="128" width="187.5" height="7" rx="3.5" fill="#58a6ff"/>
     <text class="label" x="28" y="151">Java</text>
     <text class="value" x="338" y="151" text-anchor="end">153h · 25%</text>
     <rect class="track" x="28" y="159" width="310" height="7" rx="3.5"/>
-    <rect x="28" y="159" width="77.5" height="7" rx="3.5" fill="#a371f7"/>
+    <rect x="28" y="159" width="77.0" height="7" rx="3.5" fill="#a371f7"/>
     <text class="label" x="28" y="182">C</text>
     <text class="value" x="338" y="182" text-anchor="end">19h 45m · 3.2%</text>
     <rect class="track" x="28" y="190" width="310" height="7" rx="3.5"/>
@@ -43,18 +43,18 @@
     <text class="label" x="28" y="244">C++</text>
     <text class="value" x="338" y="244" text-anchor="end">14h 51m · 2.4%</text>
     <rect class="track" x="28" y="252" width="310" height="7" rx="3.5"/>
-    <rect x="28" y="252" width="7.5" height="7" rx="3.5" fill="#f778ba"/>
+    <rect x="28" y="252" width="7.4" height="7" rx="3.5" fill="#f778ba"/>
 
     <text class="label" x="382" y="120">Windows</text>
-    <text class="value" x="692" y="120" text-anchor="end">604h · 78%</text>
+    <text class="value" x="692" y="120" text-anchor="end">604h · 77%</text>
     <rect class="track" x="382" y="128" width="310" height="7" rx="3.5"/>
-    <rect x="382" y="128" width="241.8" height="7" rx="3.5" fill="#58a6ff"/>
+    <rect x="382" y="128" width="239.2" height="7" rx="3.5" fill="#58a6ff"/>
     <text class="label" x="382" y="151">macOS</text>
-    <text class="value" x="692" y="151" text-anchor="end">105h · 14%</text>
+    <text class="value" x="692" y="151" text-anchor="end">107h · 14%</text>
     <rect class="track" x="382" y="159" width="310" height="7" rx="3.5"/>
-    <rect x="382" y="159" width="42.3" height="7" rx="3.5" fill="#a371f7"/>
+    <rect x="382" y="159" width="42.5" height="7" rx="3.5" fill="#a371f7"/>
     <text class="label" x="382" y="182">Linux</text>
-    <text class="value" x="692" y="182" text-anchor="end">61h 23m · 7.9%</text>
+    <text class="value" x="692" y="182" text-anchor="end">61h 23m · 7.8%</text>
     <rect class="track" x="382" y="190" width="310" height="7" rx="3.5"/>
-    <rect x="382" y="190" width="24.5" height="7" rx="3.5" fill="#3fb950"/>
+    <rect x="382" y="190" width="24.3" height="7" rx="3.5" fill="#3fb950"/>
 </svg>
