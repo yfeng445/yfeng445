@@ -17,7 +17,10 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Generate WakaTime metrics
+      - name: Generate WakaTime activity
+        run: node .github/scripts/generate-wakatime-activity.mjs
+
+      - name: Generate WakaTime stats
         run: node .github/scripts/generate-wakatime-card.mjs
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -25,11 +28,11 @@ jobs:
 
       - name: Commit WakaTime metrics
         run: |
-          if git diff --quiet -- wakatime-metrics.svg; then exit 0; fi
+          if git diff --quiet -- wakatime-activity.svg wakatime-metrics.svg; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add wakatime-metrics.svg
-          git commit -m "Update wakatime-metrics.svg - [Skip GitHub Action]"
+          git add wakatime-activity.svg wakatime-metrics.svg
+          git commit -m "Update WakaTime metrics - [Skip GitHub Action]"
           git push
 
       - name: Generate GitHub metrics
