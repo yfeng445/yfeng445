@@ -1,8 +1,12 @@
-! Bing
-||bing.com^$removeparam=toWww
-||bing.com^$removeparam=redig
-||bing.com/^$removeparam=PC
-||bing.com/^$removeparam=FORM
+! Bing Search
+||bing.com/search^$removeparam=form
+||bing.com/search^$removeparam=sp
+||bing.com/search^$removeparam=lq
+||bing.com/search^$removeparam=pq
+||bing.com/search^$removeparam=sc
+||bing.com/search^$removeparam=qs
+||bing.com/search^$removeparam=sk
+||bing.com/search^$removeparam=cvid
 
 ! Bilibili
 ||bilibili.com^$removeparam=spm_id_from
