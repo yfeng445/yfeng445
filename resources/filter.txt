@@ -7,9 +7,10 @@
 ||bing.com/search^$removeparam=qs
 ||bing.com/search^$removeparam=sk
 ||bing.com/search^$removeparam=cvid
-||bing.com/search^$removeparam=q
 ||bing.com/search^$removeparam=PC
 ||bing.com/search^$removeparam=FORM
+||bing.com/search^$removeparam=scope
+||bing.com/search^$removeparam=cc
 
 ! Bilibili
 ||bilibili.com^$removeparam=spm_id_from
