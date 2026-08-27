@@ -1,0 +1,18 @@
+! Bing
+||bing.com^$removeparam=toWww
+||bing.com^$removeparam=redig
+
+! Bilibili
+||bilibili.com^$removeparam=spm_id_from
+
+! Google
+||google.com/search^$removeparam=sca_esv
+||google.com/search^$removeparam=sxsrf
+||google.com/search^$removeparam=source
+||google.com/search^$removeparam=ei
+||google.com/search^$removeparam=iflsig
+||google.com/search^$removeparam=ved
+||google.com/search^$removeparam=uact
+||google.com/search^$removeparam=oq
+||google.com/search^$removeparam=gs_lp
+||google.com/search^$removeparam=sclient
