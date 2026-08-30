@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
   <title id="title">WakaTime activity last year</title>
-  <desc id="desc">Daily coding activity from Aug 30, 2025 – Aug 29, 2026</desc>
+  <desc id="desc">Daily coding activity from Aug 31, 2025 – Aug 30, 2026</desc>
   <style>
     .card { fill: #0d1117; stroke: #30363d; }
     .title { fill: #f0f6fc; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -30,386 +30,386 @@
   <text class="title" x="28" y="35">ACTIVITY LAST YEAR</text>
   <text class="source" x="692" y="35" text-anchor="end">WakaTime</text>
   <line x1="28" y1="51" x2="692" y2="51" stroke="#30363d"/>
-  <text class="axis" x="43" y="72">Sep<title>September 2025</title></text>
-  <text class="axis" x="108" y="72">Oct<title>October 2025</title></text>
-  <text class="axis" x="160" y="72">Nov<title>November 2025</title></text>
-  <text class="axis" x="225" y="72">Dec<title>December 2025</title></text>
-  <text class="axis" x="277" y="72">Jan<title>January 2026</title></text>
-  <text class="axis" x="329" y="72">Feb<title>February 2026</title></text>
-  <text class="axis" x="381" y="72">Mar<title>March 2026</title></text>
-  <text class="axis" x="446" y="72">Apr<title>April 2026</title></text>
-  <text class="axis" x="498" y="72">May<title>May 2026</title></text>
-  <text class="axis" x="563" y="72">Jun<title>June 2026</title></text>
-  <text class="axis" x="615" y="72">Jul<title>July 2026</title></text>
-  <text class="axis" x="667" y="72">Aug<title>August 2026</title></text>
+  <text class="axis" x="30" y="72">Sep<title>September 2025</title></text>
+  <text class="axis" x="95" y="72">Oct<title>October 2025</title></text>
+  <text class="axis" x="147" y="72">Nov<title>November 2025</title></text>
+  <text class="axis" x="212" y="72">Dec<title>December 2025</title></text>
+  <text class="axis" x="264" y="72">Jan<title>January 2026</title></text>
+  <text class="axis" x="316" y="72">Feb<title>February 2026</title></text>
+  <text class="axis" x="368" y="72">Mar<title>March 2026</title></text>
+  <text class="axis" x="433" y="72">Apr<title>April 2026</title></text>
+  <text class="axis" x="485" y="72">May<title>May 2026</title></text>
+  <text class="axis" x="550" y="72">Jun<title>June 2026</title></text>
+  <text class="axis" x="602" y="72">Jul<title>July 2026</title></text>
+  <text class="axis" x="654" y="72">Aug<title>August 2026</title></text>
   <text class="axis" x="0" y="103">Mon</text>
   <text class="axis" x="0" y="129">Wed</text>
   <text class="axis" x="0" y="155">Fri</text>
-  <rect class="day level-0" x="30" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 30, 2025</title></rect>
-  <rect class="day level-0" x="43" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 31, 2025</title></rect>
-  <rect class="day level-0" x="43" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Sep 1, 2025</title></rect>
-  <rect class="day level-0" x="43" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Sep 2, 2025</title></rect>
-  <rect class="day level-2" x="43" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Sep 3, 2025</title></rect>
-  <rect class="day level-1" x="43" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Sep 4, 2025</title></rect>
-  <rect class="day level-0" x="43" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Sep 5, 2025</title></rect>
-  <rect class="day level-0" x="43" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Sep 6, 2025</title></rect>
-  <rect class="day level-0" x="56" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Sep 7, 2025</title></rect>
-  <rect class="day level-1" x="56" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Sep 8, 2025</title></rect>
-  <rect class="day level-2" x="56" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Sep 9, 2025</title></rect>
-  <rect class="day level-1" x="56" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Sep 10, 2025</title></rect>
-  <rect class="day level-2" x="56" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Sep 11, 2025</title></rect>
-  <rect class="day level-0" x="56" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Sep 12, 2025</title></rect>
-  <rect class="day level-0" x="56" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Sep 13, 2025</title></rect>
-  <rect class="day level-0" x="69" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Sep 14, 2025</title></rect>
-  <rect class="day level-0" x="69" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Sep 15, 2025</title></rect>
-  <rect class="day level-1" x="69" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Sep 16, 2025</title></rect>
-  <rect class="day level-2" x="69" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Sep 17, 2025</title></rect>
-  <rect class="day level-2" x="69" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Sep 18, 2025</title></rect>
-  <rect class="day level-0" x="69" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Sep 19, 2025</title></rect>
-  <rect class="day level-0" x="69" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Sep 20, 2025</title></rect>
-  <rect class="day level-0" x="82" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Sep 21, 2025</title></rect>
-  <rect class="day level-2" x="82" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Sep 22, 2025</title></rect>
-  <rect class="day level-2" x="82" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Sep 23, 2025</title></rect>
-  <rect class="day level-1" x="82" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Sep 24, 2025</title></rect>
-  <rect class="day level-2" x="82" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Sep 25, 2025</title></rect>
-  <rect class="day level-2" x="82" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Sep 26, 2025</title></rect>
-  <rect class="day level-5" x="82" y="159" width="10" height="10" rx="2"><title>13+ hrs on Sep 27, 2025</title></rect>
-  <rect class="day level-1" x="95" y="81" width="10" height="10" rx="2"><title>1-3 hrs on Sep 28, 2025</title></rect>
-  <rect class="day level-1" x="95" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Sep 29, 2025</title></rect>
-  <rect class="day level-1" x="95" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Sep 30, 2025</title></rect>
-  <rect class="day level-1" x="95" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Oct 1, 2025</title></rect>
-  <rect class="day level-2" x="95" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Oct 2, 2025</title></rect>
-  <rect class="day level-1" x="95" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Oct 3, 2025</title></rect>
-  <rect class="day level-0" x="95" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 4, 2025</title></rect>
-  <rect class="day level-0" x="108" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Oct 5, 2025</title></rect>
-  <rect class="day level-0" x="108" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Oct 6, 2025</title></rect>
-  <rect class="day level-1" x="108" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Oct 7, 2025</title></rect>
-  <rect class="day level-2" x="108" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Oct 8, 2025</title></rect>
-  <rect class="day level-2" x="108" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Oct 9, 2025</title></rect>
-  <rect class="day level-1" x="108" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Oct 10, 2025</title></rect>
-  <rect class="day level-0" x="108" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 11, 2025</title></rect>
-  <rect class="day level-1" x="121" y="81" width="10" height="10" rx="2"><title>1-3 hrs on Oct 12, 2025</title></rect>
-  <rect class="day level-2" x="121" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Oct 13, 2025</title></rect>
-  <rect class="day level-0" x="121" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Oct 14, 2025</title></rect>
-  <rect class="day level-0" x="121" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Oct 15, 2025</title></rect>
-  <rect class="day level-0" x="121" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Oct 16, 2025</title></rect>
-  <rect class="day level-0" x="121" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Oct 17, 2025</title></rect>
-  <rect class="day level-0" x="121" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 18, 2025</title></rect>
-  <rect class="day level-0" x="134" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Oct 19, 2025</title></rect>
-  <rect class="day level-1" x="134" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Oct 20, 2025</title></rect>
-  <rect class="day level-2" x="134" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Oct 21, 2025</title></rect>
-  <rect class="day level-1" x="134" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Oct 22, 2025</title></rect>
-  <rect class="day level-0" x="134" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Oct 23, 2025</title></rect>
-  <rect class="day level-0" x="134" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Oct 24, 2025</title></rect>
-  <rect class="day level-0" x="134" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 25, 2025</title></rect>
-  <rect class="day level-0" x="147" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Oct 26, 2025</title></rect>
-  <rect class="day level-1" x="147" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Oct 27, 2025</title></rect>
-  <rect class="day level-1" x="147" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Oct 28, 2025</title></rect>
-  <rect class="day level-0" x="147" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Oct 29, 2025</title></rect>
-  <rect class="day level-0" x="147" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Oct 30, 2025</title></rect>
-  <rect class="day level-1" x="147" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Oct 31, 2025</title></rect>
-  <rect class="day level-0" x="147" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 1, 2025</title></rect>
-  <rect class="day level-0" x="160" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 2, 2025</title></rect>
-  <rect class="day level-0" x="160" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Nov 3, 2025</title></rect>
-  <rect class="day level-2" x="160" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Nov 4, 2025</title></rect>
-  <rect class="day level-2" x="160" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Nov 5, 2025</title></rect>
-  <rect class="day level-1" x="160" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Nov 6, 2025</title></rect>
-  <rect class="day level-0" x="160" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 7, 2025</title></rect>
-  <rect class="day level-0" x="160" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 8, 2025</title></rect>
-  <rect class="day level-0" x="173" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 9, 2025</title></rect>
-  <rect class="day level-2" x="173" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Nov 10, 2025</title></rect>
-  <rect class="day level-0" x="173" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Nov 11, 2025</title></rect>
-  <rect class="day level-2" x="173" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Nov 12, 2025</title></rect>
-  <rect class="day level-1" x="173" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Nov 13, 2025</title></rect>
-  <rect class="day level-0" x="173" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 14, 2025</title></rect>
-  <rect class="day level-0" x="173" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 15, 2025</title></rect>
-  <rect class="day level-0" x="186" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 16, 2025</title></rect>
-  <rect class="day level-1" x="186" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Nov 17, 2025</title></rect>
-  <rect class="day level-1" x="186" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Nov 18, 2025</title></rect>
-  <rect class="day level-1" x="186" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Nov 19, 2025</title></rect>
-  <rect class="day level-0" x="186" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Nov 20, 2025</title></rect>
-  <rect class="day level-0" x="186" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 21, 2025</title></rect>
-  <rect class="day level-0" x="186" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 22, 2025</title></rect>
-  <rect class="day level-0" x="199" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 23, 2025</title></rect>
-  <rect class="day level-0" x="199" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Nov 24, 2025</title></rect>
-  <rect class="day level-0" x="199" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Nov 25, 2025</title></rect>
-  <rect class="day level-0" x="199" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Nov 26, 2025</title></rect>
-  <rect class="day level-0" x="199" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Nov 27, 2025</title></rect>
-  <rect class="day level-0" x="199" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 28, 2025</title></rect>
-  <rect class="day level-0" x="199" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 29, 2025</title></rect>
-  <rect class="day level-0" x="212" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 30, 2025</title></rect>
-  <rect class="day level-1" x="212" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Dec 1, 2025</title></rect>
-  <rect class="day level-0" x="212" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 2, 2025</title></rect>
-  <rect class="day level-0" x="212" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 3, 2025</title></rect>
-  <rect class="day level-2" x="212" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Dec 4, 2025</title></rect>
-  <rect class="day level-1" x="212" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Dec 5, 2025</title></rect>
-  <rect class="day level-0" x="212" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 6, 2025</title></rect>
-  <rect class="day level-0" x="225" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 7, 2025</title></rect>
-  <rect class="day level-0" x="225" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 8, 2025</title></rect>
-  <rect class="day level-0" x="225" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 9, 2025</title></rect>
-  <rect class="day level-0" x="225" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 10, 2025</title></rect>
-  <rect class="day level-0" x="225" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Dec 11, 2025</title></rect>
-  <rect class="day level-0" x="225" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Dec 12, 2025</title></rect>
-  <rect class="day level-0" x="225" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 13, 2025</title></rect>
-  <rect class="day level-0" x="238" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 14, 2025</title></rect>
-  <rect class="day level-0" x="238" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 15, 2025</title></rect>
-  <rect class="day level-0" x="238" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 16, 2025</title></rect>
-  <rect class="day level-0" x="238" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 17, 2025</title></rect>
-  <rect class="day level-0" x="238" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Dec 18, 2025</title></rect>
-  <rect class="day level-0" x="238" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Dec 19, 2025</title></rect>
-  <rect class="day level-0" x="238" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 20, 2025</title></rect>
-  <rect class="day level-0" x="251" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 21, 2025</title></rect>
-  <rect class="day level-0" x="251" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 22, 2025</title></rect>
-  <rect class="day level-0" x="251" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 23, 2025</title></rect>
-  <rect class="day level-0" x="251" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 24, 2025</title></rect>
-  <rect class="day level-0" x="251" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Dec 25, 2025</title></rect>
-  <rect class="day level-0" x="251" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Dec 26, 2025</title></rect>
-  <rect class="day level-0" x="251" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 27, 2025</title></rect>
-  <rect class="day level-0" x="264" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 28, 2025</title></rect>
-  <rect class="day level-0" x="264" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 29, 2025</title></rect>
-  <rect class="day level-0" x="264" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 30, 2025</title></rect>
-  <rect class="day level-0" x="264" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 31, 2025</title></rect>
-  <rect class="day level-0" x="264" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 1, 2026</title></rect>
-  <rect class="day level-0" x="264" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 2, 2026</title></rect>
-  <rect class="day level-0" x="264" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 3, 2026</title></rect>
-  <rect class="day level-0" x="277" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 4, 2026</title></rect>
-  <rect class="day level-0" x="277" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 5, 2026</title></rect>
-  <rect class="day level-0" x="277" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jan 6, 2026</title></rect>
-  <rect class="day level-0" x="277" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jan 7, 2026</title></rect>
-  <rect class="day level-0" x="277" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 8, 2026</title></rect>
-  <rect class="day level-0" x="277" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 9, 2026</title></rect>
-  <rect class="day level-0" x="277" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 10, 2026</title></rect>
-  <rect class="day level-0" x="290" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 11, 2026</title></rect>
-  <rect class="day level-0" x="290" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 12, 2026</title></rect>
-  <rect class="day level-0" x="290" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jan 13, 2026</title></rect>
-  <rect class="day level-0" x="290" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jan 14, 2026</title></rect>
-  <rect class="day level-1" x="290" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Jan 15, 2026</title></rect>
-  <rect class="day level-0" x="290" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 16, 2026</title></rect>
-  <rect class="day level-0" x="290" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 17, 2026</title></rect>
-  <rect class="day level-0" x="303" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 18, 2026</title></rect>
-  <rect class="day level-0" x="303" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 19, 2026</title></rect>
-  <rect class="day level-1" x="303" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Jan 20, 2026</title></rect>
-  <rect class="day level-2" x="303" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jan 21, 2026</title></rect>
-  <rect class="day level-0" x="303" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 22, 2026</title></rect>
-  <rect class="day level-1" x="303" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Jan 23, 2026</title></rect>
-  <rect class="day level-0" x="303" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 24, 2026</title></rect>
-  <rect class="day level-0" x="316" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 25, 2026</title></rect>
-  <rect class="day level-0" x="316" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 26, 2026</title></rect>
-  <rect class="day level-0" x="316" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jan 27, 2026</title></rect>
-  <rect class="day level-0" x="316" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jan 28, 2026</title></rect>
-  <rect class="day level-0" x="316" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 29, 2026</title></rect>
-  <rect class="day level-0" x="316" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 30, 2026</title></rect>
-  <rect class="day level-0" x="316" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 31, 2026</title></rect>
-  <rect class="day level-0" x="329" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 1, 2026</title></rect>
-  <rect class="day level-0" x="329" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Feb 2, 2026</title></rect>
-  <rect class="day level-0" x="329" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 3, 2026</title></rect>
-  <rect class="day level-0" x="329" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 4, 2026</title></rect>
-  <rect class="day level-0" x="329" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 5, 2026</title></rect>
-  <rect class="day level-0" x="329" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Feb 6, 2026</title></rect>
-  <rect class="day level-0" x="329" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 7, 2026</title></rect>
-  <rect class="day level-0" x="342" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 8, 2026</title></rect>
-  <rect class="day level-0" x="342" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Feb 9, 2026</title></rect>
-  <rect class="day level-0" x="342" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 10, 2026</title></rect>
-  <rect class="day level-0" x="342" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 11, 2026</title></rect>
-  <rect class="day level-0" x="342" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 12, 2026</title></rect>
-  <rect class="day level-0" x="342" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Feb 13, 2026</title></rect>
-  <rect class="day level-0" x="342" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 14, 2026</title></rect>
-  <rect class="day level-0" x="355" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 15, 2026</title></rect>
-  <rect class="day level-1" x="355" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Feb 16, 2026</title></rect>
-  <rect class="day level-0" x="355" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 17, 2026</title></rect>
-  <rect class="day level-0" x="355" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 18, 2026</title></rect>
-  <rect class="day level-0" x="355" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 19, 2026</title></rect>
-  <rect class="day level-1" x="355" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Feb 20, 2026</title></rect>
-  <rect class="day level-0" x="355" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 21, 2026</title></rect>
-  <rect class="day level-0" x="368" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 22, 2026</title></rect>
-  <rect class="day level-0" x="368" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Feb 23, 2026</title></rect>
-  <rect class="day level-0" x="368" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 24, 2026</title></rect>
-  <rect class="day level-0" x="368" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 25, 2026</title></rect>
-  <rect class="day level-0" x="368" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 26, 2026</title></rect>
-  <rect class="day level-1" x="368" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Feb 27, 2026</title></rect>
-  <rect class="day level-0" x="368" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 28, 2026</title></rect>
-  <rect class="day level-0" x="381" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 1, 2026</title></rect>
-  <rect class="day level-0" x="381" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Mar 2, 2026</title></rect>
-  <rect class="day level-0" x="381" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 3, 2026</title></rect>
-  <rect class="day level-0" x="381" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Mar 4, 2026</title></rect>
-  <rect class="day level-0" x="381" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Mar 5, 2026</title></rect>
-  <rect class="day level-0" x="381" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Mar 6, 2026</title></rect>
-  <rect class="day level-1" x="381" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Mar 7, 2026</title></rect>
-  <rect class="day level-1" x="394" y="81" width="10" height="10" rx="2"><title>1-3 hrs on Mar 8, 2026</title></rect>
-  <rect class="day level-1" x="394" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Mar 9, 2026</title></rect>
-  <rect class="day level-0" x="394" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 10, 2026</title></rect>
-  <rect class="day level-1" x="394" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Mar 11, 2026</title></rect>
-  <rect class="day level-1" x="394" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Mar 12, 2026</title></rect>
-  <rect class="day level-1" x="394" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Mar 13, 2026</title></rect>
-  <rect class="day level-0" x="394" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Mar 14, 2026</title></rect>
-  <rect class="day level-0" x="407" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 15, 2026</title></rect>
-  <rect class="day level-1" x="407" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Mar 16, 2026</title></rect>
-  <rect class="day level-1" x="407" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Mar 17, 2026</title></rect>
-  <rect class="day level-0" x="407" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Mar 18, 2026</title></rect>
-  <rect class="day level-0" x="407" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Mar 19, 2026</title></rect>
-  <rect class="day level-0" x="407" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Mar 20, 2026</title></rect>
-  <rect class="day level-0" x="407" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Mar 21, 2026</title></rect>
-  <rect class="day level-0" x="420" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 22, 2026</title></rect>
-  <rect class="day level-0" x="420" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Mar 23, 2026</title></rect>
-  <rect class="day level-0" x="420" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 24, 2026</title></rect>
-  <rect class="day level-0" x="420" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Mar 25, 2026</title></rect>
-  <rect class="day level-0" x="420" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Mar 26, 2026</title></rect>
-  <rect class="day level-0" x="420" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Mar 27, 2026</title></rect>
-  <rect class="day level-0" x="420" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Mar 28, 2026</title></rect>
-  <rect class="day level-0" x="433" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 29, 2026</title></rect>
-  <rect class="day level-0" x="433" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Mar 30, 2026</title></rect>
-  <rect class="day level-0" x="433" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 31, 2026</title></rect>
-  <rect class="day level-0" x="433" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Apr 1, 2026</title></rect>
-  <rect class="day level-0" x="433" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 2, 2026</title></rect>
-  <rect class="day level-0" x="433" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Apr 3, 2026</title></rect>
-  <rect class="day level-0" x="433" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Apr 4, 2026</title></rect>
-  <rect class="day level-0" x="446" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 5, 2026</title></rect>
-  <rect class="day level-0" x="446" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Apr 6, 2026</title></rect>
-  <rect class="day level-0" x="446" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Apr 7, 2026</title></rect>
-  <rect class="day level-0" x="446" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Apr 8, 2026</title></rect>
-  <rect class="day level-0" x="446" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 9, 2026</title></rect>
-  <rect class="day level-1" x="446" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Apr 10, 2026</title></rect>
-  <rect class="day level-0" x="446" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Apr 11, 2026</title></rect>
-  <rect class="day level-0" x="459" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 12, 2026</title></rect>
-  <rect class="day level-1" x="459" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Apr 13, 2026</title></rect>
-  <rect class="day level-0" x="459" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Apr 14, 2026</title></rect>
-  <rect class="day level-1" x="459" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Apr 15, 2026</title></rect>
-  <rect class="day level-0" x="459" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 16, 2026</title></rect>
-  <rect class="day level-1" x="459" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Apr 17, 2026</title></rect>
-  <rect class="day level-1" x="459" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Apr 18, 2026</title></rect>
-  <rect class="day level-0" x="472" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 19, 2026</title></rect>
-  <rect class="day level-1" x="472" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Apr 20, 2026</title></rect>
-  <rect class="day level-1" x="472" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Apr 21, 2026</title></rect>
-  <rect class="day level-2" x="472" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Apr 22, 2026</title></rect>
-  <rect class="day level-0" x="472" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 23, 2026</title></rect>
-  <rect class="day level-0" x="472" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Apr 24, 2026</title></rect>
-  <rect class="day level-0" x="472" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Apr 25, 2026</title></rect>
-  <rect class="day level-0" x="485" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 26, 2026</title></rect>
-  <rect class="day level-0" x="485" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Apr 27, 2026</title></rect>
-  <rect class="day level-0" x="485" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Apr 28, 2026</title></rect>
-  <rect class="day level-0" x="485" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Apr 29, 2026</title></rect>
-  <rect class="day level-0" x="485" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 30, 2026</title></rect>
-  <rect class="day level-0" x="485" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 1, 2026</title></rect>
-  <rect class="day level-0" x="485" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 2, 2026</title></rect>
-  <rect class="day level-0" x="498" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 3, 2026</title></rect>
-  <rect class="day level-0" x="498" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 4, 2026</title></rect>
-  <rect class="day level-1" x="498" y="107" width="10" height="10" rx="2"><title>1-3 hrs on May 5, 2026</title></rect>
-  <rect class="day level-0" x="498" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 6, 2026</title></rect>
-  <rect class="day level-0" x="498" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 7, 2026</title></rect>
-  <rect class="day level-0" x="498" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 8, 2026</title></rect>
-  <rect class="day level-0" x="498" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 9, 2026</title></rect>
-  <rect class="day level-1" x="511" y="81" width="10" height="10" rx="2"><title>1-3 hrs on May 10, 2026</title></rect>
-  <rect class="day level-0" x="511" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 11, 2026</title></rect>
-  <rect class="day level-1" x="511" y="107" width="10" height="10" rx="2"><title>1-3 hrs on May 12, 2026</title></rect>
-  <rect class="day level-0" x="511" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 13, 2026</title></rect>
-  <rect class="day level-0" x="511" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 14, 2026</title></rect>
-  <rect class="day level-0" x="511" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 15, 2026</title></rect>
-  <rect class="day level-0" x="511" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 16, 2026</title></rect>
-  <rect class="day level-0" x="524" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 17, 2026</title></rect>
-  <rect class="day level-0" x="524" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 18, 2026</title></rect>
-  <rect class="day level-0" x="524" y="107" width="10" height="10" rx="2"><title>Under 1 hr on May 19, 2026</title></rect>
-  <rect class="day level-0" x="524" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 20, 2026</title></rect>
-  <rect class="day level-0" x="524" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 21, 2026</title></rect>
-  <rect class="day level-0" x="524" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 22, 2026</title></rect>
-  <rect class="day level-0" x="524" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 23, 2026</title></rect>
-  <rect class="day level-0" x="537" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 24, 2026</title></rect>
-  <rect class="day level-0" x="537" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 25, 2026</title></rect>
-  <rect class="day level-0" x="537" y="107" width="10" height="10" rx="2"><title>Under 1 hr on May 26, 2026</title></rect>
-  <rect class="day level-0" x="537" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 27, 2026</title></rect>
-  <rect class="day level-0" x="537" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 28, 2026</title></rect>
-  <rect class="day level-0" x="537" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 29, 2026</title></rect>
-  <rect class="day level-0" x="537" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 30, 2026</title></rect>
-  <rect class="day level-0" x="550" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 31, 2026</title></rect>
-  <rect class="day level-0" x="550" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jun 1, 2026</title></rect>
-  <rect class="day level-0" x="550" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jun 2, 2026</title></rect>
-  <rect class="day level-0" x="550" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jun 3, 2026</title></rect>
-  <rect class="day level-0" x="550" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jun 4, 2026</title></rect>
-  <rect class="day level-0" x="550" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jun 5, 2026</title></rect>
-  <rect class="day level-0" x="550" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jun 6, 2026</title></rect>
-  <rect class="day level-0" x="563" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jun 7, 2026</title></rect>
-  <rect class="day level-2" x="563" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 8, 2026</title></rect>
-  <rect class="day level-1" x="563" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Jun 9, 2026</title></rect>
-  <rect class="day level-2" x="563" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jun 10, 2026</title></rect>
-  <rect class="day level-2" x="563" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jun 11, 2026</title></rect>
-  <rect class="day level-2" x="563" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jun 12, 2026</title></rect>
-  <rect class="day level-0" x="563" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jun 13, 2026</title></rect>
-  <rect class="day level-0" x="576" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jun 14, 2026</title></rect>
-  <rect class="day level-2" x="576" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 15, 2026</title></rect>
-  <rect class="day level-2" x="576" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jun 16, 2026</title></rect>
-  <rect class="day level-2" x="576" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jun 17, 2026</title></rect>
-  <rect class="day level-1" x="576" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Jun 18, 2026</title></rect>
-  <rect class="day level-0" x="576" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jun 19, 2026</title></rect>
-  <rect class="day level-0" x="576" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jun 20, 2026</title></rect>
-  <rect class="day level-0" x="589" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jun 21, 2026</title></rect>
-  <rect class="day level-2" x="589" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 22, 2026</title></rect>
-  <rect class="day level-2" x="589" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jun 23, 2026</title></rect>
-  <rect class="day level-2" x="589" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jun 24, 2026</title></rect>
-  <rect class="day level-2" x="589" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jun 25, 2026</title></rect>
-  <rect class="day level-1" x="589" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Jun 26, 2026</title></rect>
-  <rect class="day level-1" x="589" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Jun 27, 2026</title></rect>
-  <rect class="day level-2" x="602" y="81" width="10" height="10" rx="2"><title>4-8 hrs on Jun 28, 2026</title></rect>
-  <rect class="day level-2" x="602" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 29, 2026</title></rect>
-  <rect class="day level-2" x="602" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jun 30, 2026</title></rect>
-  <rect class="day level-3" x="602" y="120" width="10" height="10" rx="2"><title>9-10 hrs on Jul 1, 2026</title></rect>
-  <rect class="day level-3" x="602" y="133" width="10" height="10" rx="2"><title>9-10 hrs on Jul 2, 2026</title></rect>
-  <rect class="day level-2" x="602" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 3, 2026</title></rect>
-  <rect class="day level-1" x="602" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Jul 4, 2026</title></rect>
-  <rect class="day level-0" x="615" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jul 5, 2026</title></rect>
-  <rect class="day level-2" x="615" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 6, 2026</title></rect>
-  <rect class="day level-2" x="615" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jul 7, 2026</title></rect>
-  <rect class="day level-2" x="615" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jul 8, 2026</title></rect>
-  <rect class="day level-2" x="615" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 9, 2026</title></rect>
-  <rect class="day level-2" x="615" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 10, 2026</title></rect>
-  <rect class="day level-2" x="615" y="159" width="10" height="10" rx="2"><title>4-8 hrs on Jul 11, 2026</title></rect>
-  <rect class="day level-2" x="628" y="81" width="10" height="10" rx="2"><title>4-8 hrs on Jul 12, 2026</title></rect>
-  <rect class="day level-2" x="628" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 13, 2026</title></rect>
-  <rect class="day level-3" x="628" y="107" width="10" height="10" rx="2"><title>9-10 hrs on Jul 14, 2026</title></rect>
-  <rect class="day level-3" x="628" y="120" width="10" height="10" rx="2"><title>9-10 hrs on Jul 15, 2026</title></rect>
-  <rect class="day level-2" x="628" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 16, 2026</title></rect>
-  <rect class="day level-0" x="628" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jul 17, 2026</title></rect>
-  <rect class="day level-0" x="628" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jul 18, 2026</title></rect>
-  <rect class="day level-0" x="641" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jul 19, 2026</title></rect>
-  <rect class="day level-2" x="641" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 20, 2026</title></rect>
-  <rect class="day level-2" x="641" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jul 21, 2026</title></rect>
-  <rect class="day level-4" x="641" y="120" width="10" height="10" rx="2"><title>11-12 hrs on Jul 22, 2026</title></rect>
-  <rect class="day level-2" x="641" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 23, 2026</title></rect>
-  <rect class="day level-2" x="641" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 24, 2026</title></rect>
-  <rect class="day level-0" x="641" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jul 25, 2026</title></rect>
-  <rect class="day level-2" x="654" y="81" width="10" height="10" rx="2"><title>4-8 hrs on Jul 26, 2026</title></rect>
-  <rect class="day level-2" x="654" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 27, 2026</title></rect>
-  <rect class="day level-1" x="654" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Jul 28, 2026</title></rect>
-  <rect class="day level-2" x="654" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jul 29, 2026</title></rect>
-  <rect class="day level-2" x="654" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 30, 2026</title></rect>
-  <rect class="day level-2" x="654" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 31, 2026</title></rect>
-  <rect class="day level-0" x="654" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 1, 2026</title></rect>
-  <rect class="day level-0" x="667" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 2, 2026</title></rect>
-  <rect class="day level-0" x="667" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Aug 3, 2026</title></rect>
-  <rect class="day level-1" x="667" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Aug 4, 2026</title></rect>
-  <rect class="day level-0" x="667" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Aug 5, 2026</title></rect>
-  <rect class="day level-1" x="667" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Aug 6, 2026</title></rect>
-  <rect class="day level-0" x="667" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Aug 7, 2026</title></rect>
-  <rect class="day level-0" x="667" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 8, 2026</title></rect>
-  <rect class="day level-0" x="680" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 9, 2026</title></rect>
-  <rect class="day level-1" x="680" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Aug 10, 2026</title></rect>
-  <rect class="day level-2" x="680" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Aug 11, 2026</title></rect>
-  <rect class="day level-3" x="680" y="120" width="10" height="10" rx="2"><title>9-10 hrs on Aug 12, 2026</title></rect>
-  <rect class="day level-5" x="680" y="133" width="10" height="10" rx="2"><title>13+ hrs on Aug 13, 2026</title></rect>
-  <rect class="day level-5" x="680" y="146" width="10" height="10" rx="2"><title>13+ hrs on Aug 14, 2026</title></rect>
-  <rect class="day level-0" x="680" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 15, 2026</title></rect>
-  <rect class="day level-0" x="693" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 16, 2026</title></rect>
-  <rect class="day level-1" x="693" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Aug 17, 2026</title></rect>
-  <rect class="day level-2" x="693" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Aug 18, 2026</title></rect>
-  <rect class="day level-2" x="693" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Aug 19, 2026</title></rect>
-  <rect class="day level-2" x="693" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Aug 20, 2026</title></rect>
-  <rect class="day level-3" x="693" y="146" width="10" height="10" rx="2"><title>9-10 hrs on Aug 21, 2026</title></rect>
-  <rect class="day level-1" x="693" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Aug 22, 2026</title></rect>
-  <rect class="day level-0" x="706" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 23, 2026</title></rect>
-  <rect class="day level-2" x="706" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Aug 24, 2026</title></rect>
-  <rect class="day level-2" x="706" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Aug 25, 2026</title></rect>
-  <rect class="day level-2" x="706" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Aug 26, 2026</title></rect>
-  <rect class="day level-2" x="706" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Aug 27, 2026</title></rect>
-  <rect class="day level-2" x="706" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Aug 28, 2026</title></rect>
-  <rect class="day level-0" x="706" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 29, 2026</title></rect>
+  <rect class="day level-0" x="30" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 31, 2025</title></rect>
+  <rect class="day level-0" x="30" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Sep 1, 2025</title></rect>
+  <rect class="day level-0" x="30" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Sep 2, 2025</title></rect>
+  <rect class="day level-2" x="30" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Sep 3, 2025</title></rect>
+  <rect class="day level-1" x="30" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Sep 4, 2025</title></rect>
+  <rect class="day level-0" x="30" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Sep 5, 2025</title></rect>
+  <rect class="day level-0" x="30" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Sep 6, 2025</title></rect>
+  <rect class="day level-0" x="43" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Sep 7, 2025</title></rect>
+  <rect class="day level-1" x="43" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Sep 8, 2025</title></rect>
+  <rect class="day level-2" x="43" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Sep 9, 2025</title></rect>
+  <rect class="day level-1" x="43" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Sep 10, 2025</title></rect>
+  <rect class="day level-2" x="43" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Sep 11, 2025</title></rect>
+  <rect class="day level-0" x="43" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Sep 12, 2025</title></rect>
+  <rect class="day level-0" x="43" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Sep 13, 2025</title></rect>
+  <rect class="day level-0" x="56" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Sep 14, 2025</title></rect>
+  <rect class="day level-0" x="56" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Sep 15, 2025</title></rect>
+  <rect class="day level-1" x="56" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Sep 16, 2025</title></rect>
+  <rect class="day level-2" x="56" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Sep 17, 2025</title></rect>
+  <rect class="day level-2" x="56" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Sep 18, 2025</title></rect>
+  <rect class="day level-0" x="56" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Sep 19, 2025</title></rect>
+  <rect class="day level-0" x="56" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Sep 20, 2025</title></rect>
+  <rect class="day level-0" x="69" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Sep 21, 2025</title></rect>
+  <rect class="day level-2" x="69" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Sep 22, 2025</title></rect>
+  <rect class="day level-2" x="69" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Sep 23, 2025</title></rect>
+  <rect class="day level-1" x="69" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Sep 24, 2025</title></rect>
+  <rect class="day level-2" x="69" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Sep 25, 2025</title></rect>
+  <rect class="day level-2" x="69" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Sep 26, 2025</title></rect>
+  <rect class="day level-5" x="69" y="159" width="10" height="10" rx="2"><title>13+ hrs on Sep 27, 2025</title></rect>
+  <rect class="day level-1" x="82" y="81" width="10" height="10" rx="2"><title>1-3 hrs on Sep 28, 2025</title></rect>
+  <rect class="day level-1" x="82" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Sep 29, 2025</title></rect>
+  <rect class="day level-1" x="82" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Sep 30, 2025</title></rect>
+  <rect class="day level-1" x="82" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Oct 1, 2025</title></rect>
+  <rect class="day level-2" x="82" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Oct 2, 2025</title></rect>
+  <rect class="day level-1" x="82" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Oct 3, 2025</title></rect>
+  <rect class="day level-0" x="82" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 4, 2025</title></rect>
+  <rect class="day level-0" x="95" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Oct 5, 2025</title></rect>
+  <rect class="day level-0" x="95" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Oct 6, 2025</title></rect>
+  <rect class="day level-1" x="95" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Oct 7, 2025</title></rect>
+  <rect class="day level-2" x="95" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Oct 8, 2025</title></rect>
+  <rect class="day level-2" x="95" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Oct 9, 2025</title></rect>
+  <rect class="day level-1" x="95" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Oct 10, 2025</title></rect>
+  <rect class="day level-0" x="95" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 11, 2025</title></rect>
+  <rect class="day level-1" x="108" y="81" width="10" height="10" rx="2"><title>1-3 hrs on Oct 12, 2025</title></rect>
+  <rect class="day level-2" x="108" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Oct 13, 2025</title></rect>
+  <rect class="day level-0" x="108" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Oct 14, 2025</title></rect>
+  <rect class="day level-0" x="108" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Oct 15, 2025</title></rect>
+  <rect class="day level-0" x="108" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Oct 16, 2025</title></rect>
+  <rect class="day level-0" x="108" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Oct 17, 2025</title></rect>
+  <rect class="day level-0" x="108" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 18, 2025</title></rect>
+  <rect class="day level-0" x="121" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Oct 19, 2025</title></rect>
+  <rect class="day level-1" x="121" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Oct 20, 2025</title></rect>
+  <rect class="day level-2" x="121" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Oct 21, 2025</title></rect>
+  <rect class="day level-1" x="121" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Oct 22, 2025</title></rect>
+  <rect class="day level-0" x="121" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Oct 23, 2025</title></rect>
+  <rect class="day level-0" x="121" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Oct 24, 2025</title></rect>
+  <rect class="day level-0" x="121" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Oct 25, 2025</title></rect>
+  <rect class="day level-0" x="134" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Oct 26, 2025</title></rect>
+  <rect class="day level-1" x="134" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Oct 27, 2025</title></rect>
+  <rect class="day level-1" x="134" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Oct 28, 2025</title></rect>
+  <rect class="day level-0" x="134" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Oct 29, 2025</title></rect>
+  <rect class="day level-0" x="134" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Oct 30, 2025</title></rect>
+  <rect class="day level-1" x="134" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Oct 31, 2025</title></rect>
+  <rect class="day level-0" x="134" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 1, 2025</title></rect>
+  <rect class="day level-0" x="147" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 2, 2025</title></rect>
+  <rect class="day level-0" x="147" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Nov 3, 2025</title></rect>
+  <rect class="day level-2" x="147" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Nov 4, 2025</title></rect>
+  <rect class="day level-2" x="147" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Nov 5, 2025</title></rect>
+  <rect class="day level-1" x="147" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Nov 6, 2025</title></rect>
+  <rect class="day level-0" x="147" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 7, 2025</title></rect>
+  <rect class="day level-0" x="147" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 8, 2025</title></rect>
+  <rect class="day level-0" x="160" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 9, 2025</title></rect>
+  <rect class="day level-2" x="160" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Nov 10, 2025</title></rect>
+  <rect class="day level-0" x="160" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Nov 11, 2025</title></rect>
+  <rect class="day level-2" x="160" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Nov 12, 2025</title></rect>
+  <rect class="day level-1" x="160" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Nov 13, 2025</title></rect>
+  <rect class="day level-0" x="160" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 14, 2025</title></rect>
+  <rect class="day level-0" x="160" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 15, 2025</title></rect>
+  <rect class="day level-0" x="173" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 16, 2025</title></rect>
+  <rect class="day level-1" x="173" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Nov 17, 2025</title></rect>
+  <rect class="day level-1" x="173" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Nov 18, 2025</title></rect>
+  <rect class="day level-1" x="173" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Nov 19, 2025</title></rect>
+  <rect class="day level-0" x="173" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Nov 20, 2025</title></rect>
+  <rect class="day level-0" x="173" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 21, 2025</title></rect>
+  <rect class="day level-0" x="173" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 22, 2025</title></rect>
+  <rect class="day level-0" x="186" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 23, 2025</title></rect>
+  <rect class="day level-0" x="186" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Nov 24, 2025</title></rect>
+  <rect class="day level-0" x="186" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Nov 25, 2025</title></rect>
+  <rect class="day level-0" x="186" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Nov 26, 2025</title></rect>
+  <rect class="day level-0" x="186" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Nov 27, 2025</title></rect>
+  <rect class="day level-0" x="186" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Nov 28, 2025</title></rect>
+  <rect class="day level-0" x="186" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Nov 29, 2025</title></rect>
+  <rect class="day level-0" x="199" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Nov 30, 2025</title></rect>
+  <rect class="day level-1" x="199" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Dec 1, 2025</title></rect>
+  <rect class="day level-0" x="199" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 2, 2025</title></rect>
+  <rect class="day level-0" x="199" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 3, 2025</title></rect>
+  <rect class="day level-2" x="199" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Dec 4, 2025</title></rect>
+  <rect class="day level-1" x="199" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Dec 5, 2025</title></rect>
+  <rect class="day level-0" x="199" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 6, 2025</title></rect>
+  <rect class="day level-0" x="212" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 7, 2025</title></rect>
+  <rect class="day level-0" x="212" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 8, 2025</title></rect>
+  <rect class="day level-0" x="212" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 9, 2025</title></rect>
+  <rect class="day level-0" x="212" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 10, 2025</title></rect>
+  <rect class="day level-0" x="212" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Dec 11, 2025</title></rect>
+  <rect class="day level-0" x="212" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Dec 12, 2025</title></rect>
+  <rect class="day level-0" x="212" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 13, 2025</title></rect>
+  <rect class="day level-0" x="225" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 14, 2025</title></rect>
+  <rect class="day level-0" x="225" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 15, 2025</title></rect>
+  <rect class="day level-0" x="225" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 16, 2025</title></rect>
+  <rect class="day level-0" x="225" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 17, 2025</title></rect>
+  <rect class="day level-0" x="225" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Dec 18, 2025</title></rect>
+  <rect class="day level-0" x="225" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Dec 19, 2025</title></rect>
+  <rect class="day level-0" x="225" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 20, 2025</title></rect>
+  <rect class="day level-0" x="238" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 21, 2025</title></rect>
+  <rect class="day level-0" x="238" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 22, 2025</title></rect>
+  <rect class="day level-0" x="238" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 23, 2025</title></rect>
+  <rect class="day level-0" x="238" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 24, 2025</title></rect>
+  <rect class="day level-0" x="238" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Dec 25, 2025</title></rect>
+  <rect class="day level-0" x="238" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Dec 26, 2025</title></rect>
+  <rect class="day level-0" x="238" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Dec 27, 2025</title></rect>
+  <rect class="day level-0" x="251" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Dec 28, 2025</title></rect>
+  <rect class="day level-0" x="251" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Dec 29, 2025</title></rect>
+  <rect class="day level-0" x="251" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Dec 30, 2025</title></rect>
+  <rect class="day level-0" x="251" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Dec 31, 2025</title></rect>
+  <rect class="day level-0" x="251" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 1, 2026</title></rect>
+  <rect class="day level-0" x="251" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 2, 2026</title></rect>
+  <rect class="day level-0" x="251" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 3, 2026</title></rect>
+  <rect class="day level-0" x="264" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 4, 2026</title></rect>
+  <rect class="day level-0" x="264" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 5, 2026</title></rect>
+  <rect class="day level-0" x="264" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jan 6, 2026</title></rect>
+  <rect class="day level-0" x="264" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jan 7, 2026</title></rect>
+  <rect class="day level-0" x="264" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 8, 2026</title></rect>
+  <rect class="day level-0" x="264" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 9, 2026</title></rect>
+  <rect class="day level-0" x="264" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 10, 2026</title></rect>
+  <rect class="day level-0" x="277" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 11, 2026</title></rect>
+  <rect class="day level-0" x="277" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 12, 2026</title></rect>
+  <rect class="day level-0" x="277" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jan 13, 2026</title></rect>
+  <rect class="day level-0" x="277" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jan 14, 2026</title></rect>
+  <rect class="day level-1" x="277" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Jan 15, 2026</title></rect>
+  <rect class="day level-0" x="277" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 16, 2026</title></rect>
+  <rect class="day level-0" x="277" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 17, 2026</title></rect>
+  <rect class="day level-0" x="290" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 18, 2026</title></rect>
+  <rect class="day level-0" x="290" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 19, 2026</title></rect>
+  <rect class="day level-1" x="290" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Jan 20, 2026</title></rect>
+  <rect class="day level-2" x="290" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jan 21, 2026</title></rect>
+  <rect class="day level-0" x="290" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 22, 2026</title></rect>
+  <rect class="day level-1" x="290" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Jan 23, 2026</title></rect>
+  <rect class="day level-0" x="290" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 24, 2026</title></rect>
+  <rect class="day level-0" x="303" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jan 25, 2026</title></rect>
+  <rect class="day level-0" x="303" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jan 26, 2026</title></rect>
+  <rect class="day level-0" x="303" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jan 27, 2026</title></rect>
+  <rect class="day level-0" x="303" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jan 28, 2026</title></rect>
+  <rect class="day level-0" x="303" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jan 29, 2026</title></rect>
+  <rect class="day level-0" x="303" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jan 30, 2026</title></rect>
+  <rect class="day level-0" x="303" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jan 31, 2026</title></rect>
+  <rect class="day level-0" x="316" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 1, 2026</title></rect>
+  <rect class="day level-0" x="316" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Feb 2, 2026</title></rect>
+  <rect class="day level-0" x="316" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 3, 2026</title></rect>
+  <rect class="day level-0" x="316" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 4, 2026</title></rect>
+  <rect class="day level-0" x="316" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 5, 2026</title></rect>
+  <rect class="day level-0" x="316" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Feb 6, 2026</title></rect>
+  <rect class="day level-0" x="316" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 7, 2026</title></rect>
+  <rect class="day level-0" x="329" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 8, 2026</title></rect>
+  <rect class="day level-0" x="329" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Feb 9, 2026</title></rect>
+  <rect class="day level-0" x="329" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 10, 2026</title></rect>
+  <rect class="day level-0" x="329" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 11, 2026</title></rect>
+  <rect class="day level-0" x="329" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 12, 2026</title></rect>
+  <rect class="day level-0" x="329" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Feb 13, 2026</title></rect>
+  <rect class="day level-0" x="329" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 14, 2026</title></rect>
+  <rect class="day level-0" x="342" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 15, 2026</title></rect>
+  <rect class="day level-1" x="342" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Feb 16, 2026</title></rect>
+  <rect class="day level-0" x="342" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 17, 2026</title></rect>
+  <rect class="day level-0" x="342" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 18, 2026</title></rect>
+  <rect class="day level-0" x="342" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 19, 2026</title></rect>
+  <rect class="day level-1" x="342" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Feb 20, 2026</title></rect>
+  <rect class="day level-0" x="342" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 21, 2026</title></rect>
+  <rect class="day level-0" x="355" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Feb 22, 2026</title></rect>
+  <rect class="day level-0" x="355" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Feb 23, 2026</title></rect>
+  <rect class="day level-0" x="355" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Feb 24, 2026</title></rect>
+  <rect class="day level-0" x="355" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Feb 25, 2026</title></rect>
+  <rect class="day level-0" x="355" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Feb 26, 2026</title></rect>
+  <rect class="day level-1" x="355" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Feb 27, 2026</title></rect>
+  <rect class="day level-0" x="355" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Feb 28, 2026</title></rect>
+  <rect class="day level-0" x="368" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 1, 2026</title></rect>
+  <rect class="day level-0" x="368" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Mar 2, 2026</title></rect>
+  <rect class="day level-0" x="368" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 3, 2026</title></rect>
+  <rect class="day level-0" x="368" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Mar 4, 2026</title></rect>
+  <rect class="day level-0" x="368" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Mar 5, 2026</title></rect>
+  <rect class="day level-0" x="368" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Mar 6, 2026</title></rect>
+  <rect class="day level-1" x="368" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Mar 7, 2026</title></rect>
+  <rect class="day level-1" x="381" y="81" width="10" height="10" rx="2"><title>1-3 hrs on Mar 8, 2026</title></rect>
+  <rect class="day level-1" x="381" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Mar 9, 2026</title></rect>
+  <rect class="day level-0" x="381" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 10, 2026</title></rect>
+  <rect class="day level-1" x="381" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Mar 11, 2026</title></rect>
+  <rect class="day level-1" x="381" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Mar 12, 2026</title></rect>
+  <rect class="day level-1" x="381" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Mar 13, 2026</title></rect>
+  <rect class="day level-0" x="381" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Mar 14, 2026</title></rect>
+  <rect class="day level-0" x="394" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 15, 2026</title></rect>
+  <rect class="day level-1" x="394" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Mar 16, 2026</title></rect>
+  <rect class="day level-1" x="394" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Mar 17, 2026</title></rect>
+  <rect class="day level-0" x="394" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Mar 18, 2026</title></rect>
+  <rect class="day level-0" x="394" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Mar 19, 2026</title></rect>
+  <rect class="day level-0" x="394" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Mar 20, 2026</title></rect>
+  <rect class="day level-0" x="394" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Mar 21, 2026</title></rect>
+  <rect class="day level-0" x="407" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 22, 2026</title></rect>
+  <rect class="day level-0" x="407" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Mar 23, 2026</title></rect>
+  <rect class="day level-0" x="407" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 24, 2026</title></rect>
+  <rect class="day level-0" x="407" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Mar 25, 2026</title></rect>
+  <rect class="day level-0" x="407" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Mar 26, 2026</title></rect>
+  <rect class="day level-0" x="407" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Mar 27, 2026</title></rect>
+  <rect class="day level-0" x="407" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Mar 28, 2026</title></rect>
+  <rect class="day level-0" x="420" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Mar 29, 2026</title></rect>
+  <rect class="day level-0" x="420" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Mar 30, 2026</title></rect>
+  <rect class="day level-0" x="420" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Mar 31, 2026</title></rect>
+  <rect class="day level-0" x="420" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Apr 1, 2026</title></rect>
+  <rect class="day level-0" x="420" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 2, 2026</title></rect>
+  <rect class="day level-0" x="420" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Apr 3, 2026</title></rect>
+  <rect class="day level-0" x="420" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Apr 4, 2026</title></rect>
+  <rect class="day level-0" x="433" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 5, 2026</title></rect>
+  <rect class="day level-0" x="433" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Apr 6, 2026</title></rect>
+  <rect class="day level-0" x="433" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Apr 7, 2026</title></rect>
+  <rect class="day level-0" x="433" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Apr 8, 2026</title></rect>
+  <rect class="day level-0" x="433" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 9, 2026</title></rect>
+  <rect class="day level-1" x="433" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Apr 10, 2026</title></rect>
+  <rect class="day level-0" x="433" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Apr 11, 2026</title></rect>
+  <rect class="day level-0" x="446" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 12, 2026</title></rect>
+  <rect class="day level-1" x="446" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Apr 13, 2026</title></rect>
+  <rect class="day level-0" x="446" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Apr 14, 2026</title></rect>
+  <rect class="day level-1" x="446" y="120" width="10" height="10" rx="2"><title>1-3 hrs on Apr 15, 2026</title></rect>
+  <rect class="day level-0" x="446" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 16, 2026</title></rect>
+  <rect class="day level-1" x="446" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Apr 17, 2026</title></rect>
+  <rect class="day level-1" x="446" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Apr 18, 2026</title></rect>
+  <rect class="day level-0" x="459" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 19, 2026</title></rect>
+  <rect class="day level-1" x="459" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Apr 20, 2026</title></rect>
+  <rect class="day level-1" x="459" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Apr 21, 2026</title></rect>
+  <rect class="day level-2" x="459" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Apr 22, 2026</title></rect>
+  <rect class="day level-0" x="459" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 23, 2026</title></rect>
+  <rect class="day level-0" x="459" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Apr 24, 2026</title></rect>
+  <rect class="day level-0" x="459" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Apr 25, 2026</title></rect>
+  <rect class="day level-0" x="472" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Apr 26, 2026</title></rect>
+  <rect class="day level-0" x="472" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Apr 27, 2026</title></rect>
+  <rect class="day level-0" x="472" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Apr 28, 2026</title></rect>
+  <rect class="day level-0" x="472" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Apr 29, 2026</title></rect>
+  <rect class="day level-0" x="472" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Apr 30, 2026</title></rect>
+  <rect class="day level-0" x="472" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 1, 2026</title></rect>
+  <rect class="day level-0" x="472" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 2, 2026</title></rect>
+  <rect class="day level-0" x="485" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 3, 2026</title></rect>
+  <rect class="day level-0" x="485" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 4, 2026</title></rect>
+  <rect class="day level-1" x="485" y="107" width="10" height="10" rx="2"><title>1-3 hrs on May 5, 2026</title></rect>
+  <rect class="day level-0" x="485" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 6, 2026</title></rect>
+  <rect class="day level-0" x="485" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 7, 2026</title></rect>
+  <rect class="day level-0" x="485" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 8, 2026</title></rect>
+  <rect class="day level-0" x="485" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 9, 2026</title></rect>
+  <rect class="day level-1" x="498" y="81" width="10" height="10" rx="2"><title>1-3 hrs on May 10, 2026</title></rect>
+  <rect class="day level-0" x="498" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 11, 2026</title></rect>
+  <rect class="day level-1" x="498" y="107" width="10" height="10" rx="2"><title>1-3 hrs on May 12, 2026</title></rect>
+  <rect class="day level-0" x="498" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 13, 2026</title></rect>
+  <rect class="day level-0" x="498" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 14, 2026</title></rect>
+  <rect class="day level-0" x="498" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 15, 2026</title></rect>
+  <rect class="day level-0" x="498" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 16, 2026</title></rect>
+  <rect class="day level-0" x="511" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 17, 2026</title></rect>
+  <rect class="day level-0" x="511" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 18, 2026</title></rect>
+  <rect class="day level-0" x="511" y="107" width="10" height="10" rx="2"><title>Under 1 hr on May 19, 2026</title></rect>
+  <rect class="day level-0" x="511" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 20, 2026</title></rect>
+  <rect class="day level-0" x="511" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 21, 2026</title></rect>
+  <rect class="day level-0" x="511" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 22, 2026</title></rect>
+  <rect class="day level-0" x="511" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 23, 2026</title></rect>
+  <rect class="day level-0" x="524" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 24, 2026</title></rect>
+  <rect class="day level-0" x="524" y="94" width="10" height="10" rx="2"><title>Under 1 hr on May 25, 2026</title></rect>
+  <rect class="day level-0" x="524" y="107" width="10" height="10" rx="2"><title>Under 1 hr on May 26, 2026</title></rect>
+  <rect class="day level-0" x="524" y="120" width="10" height="10" rx="2"><title>Under 1 hr on May 27, 2026</title></rect>
+  <rect class="day level-0" x="524" y="133" width="10" height="10" rx="2"><title>Under 1 hr on May 28, 2026</title></rect>
+  <rect class="day level-0" x="524" y="146" width="10" height="10" rx="2"><title>Under 1 hr on May 29, 2026</title></rect>
+  <rect class="day level-0" x="524" y="159" width="10" height="10" rx="2"><title>Under 1 hr on May 30, 2026</title></rect>
+  <rect class="day level-0" x="537" y="81" width="10" height="10" rx="2"><title>Under 1 hr on May 31, 2026</title></rect>
+  <rect class="day level-0" x="537" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Jun 1, 2026</title></rect>
+  <rect class="day level-0" x="537" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Jun 2, 2026</title></rect>
+  <rect class="day level-0" x="537" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Jun 3, 2026</title></rect>
+  <rect class="day level-0" x="537" y="133" width="10" height="10" rx="2"><title>Under 1 hr on Jun 4, 2026</title></rect>
+  <rect class="day level-0" x="537" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jun 5, 2026</title></rect>
+  <rect class="day level-0" x="537" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jun 6, 2026</title></rect>
+  <rect class="day level-0" x="550" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jun 7, 2026</title></rect>
+  <rect class="day level-2" x="550" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 8, 2026</title></rect>
+  <rect class="day level-1" x="550" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Jun 9, 2026</title></rect>
+  <rect class="day level-2" x="550" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jun 10, 2026</title></rect>
+  <rect class="day level-2" x="550" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jun 11, 2026</title></rect>
+  <rect class="day level-2" x="550" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jun 12, 2026</title></rect>
+  <rect class="day level-0" x="550" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jun 13, 2026</title></rect>
+  <rect class="day level-0" x="563" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jun 14, 2026</title></rect>
+  <rect class="day level-2" x="563" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 15, 2026</title></rect>
+  <rect class="day level-2" x="563" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jun 16, 2026</title></rect>
+  <rect class="day level-2" x="563" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jun 17, 2026</title></rect>
+  <rect class="day level-1" x="563" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Jun 18, 2026</title></rect>
+  <rect class="day level-0" x="563" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jun 19, 2026</title></rect>
+  <rect class="day level-0" x="563" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jun 20, 2026</title></rect>
+  <rect class="day level-0" x="576" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jun 21, 2026</title></rect>
+  <rect class="day level-2" x="576" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 22, 2026</title></rect>
+  <rect class="day level-2" x="576" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jun 23, 2026</title></rect>
+  <rect class="day level-2" x="576" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jun 24, 2026</title></rect>
+  <rect class="day level-2" x="576" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jun 25, 2026</title></rect>
+  <rect class="day level-1" x="576" y="146" width="10" height="10" rx="2"><title>1-3 hrs on Jun 26, 2026</title></rect>
+  <rect class="day level-1" x="576" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Jun 27, 2026</title></rect>
+  <rect class="day level-2" x="589" y="81" width="10" height="10" rx="2"><title>4-8 hrs on Jun 28, 2026</title></rect>
+  <rect class="day level-2" x="589" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jun 29, 2026</title></rect>
+  <rect class="day level-2" x="589" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jun 30, 2026</title></rect>
+  <rect class="day level-3" x="589" y="120" width="10" height="10" rx="2"><title>9-10 hrs on Jul 1, 2026</title></rect>
+  <rect class="day level-3" x="589" y="133" width="10" height="10" rx="2"><title>9-10 hrs on Jul 2, 2026</title></rect>
+  <rect class="day level-2" x="589" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 3, 2026</title></rect>
+  <rect class="day level-1" x="589" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Jul 4, 2026</title></rect>
+  <rect class="day level-0" x="602" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jul 5, 2026</title></rect>
+  <rect class="day level-2" x="602" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 6, 2026</title></rect>
+  <rect class="day level-2" x="602" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jul 7, 2026</title></rect>
+  <rect class="day level-2" x="602" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jul 8, 2026</title></rect>
+  <rect class="day level-2" x="602" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 9, 2026</title></rect>
+  <rect class="day level-2" x="602" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 10, 2026</title></rect>
+  <rect class="day level-2" x="602" y="159" width="10" height="10" rx="2"><title>4-8 hrs on Jul 11, 2026</title></rect>
+  <rect class="day level-2" x="615" y="81" width="10" height="10" rx="2"><title>4-8 hrs on Jul 12, 2026</title></rect>
+  <rect class="day level-2" x="615" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 13, 2026</title></rect>
+  <rect class="day level-3" x="615" y="107" width="10" height="10" rx="2"><title>9-10 hrs on Jul 14, 2026</title></rect>
+  <rect class="day level-3" x="615" y="120" width="10" height="10" rx="2"><title>9-10 hrs on Jul 15, 2026</title></rect>
+  <rect class="day level-2" x="615" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 16, 2026</title></rect>
+  <rect class="day level-0" x="615" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Jul 17, 2026</title></rect>
+  <rect class="day level-0" x="615" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jul 18, 2026</title></rect>
+  <rect class="day level-0" x="628" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Jul 19, 2026</title></rect>
+  <rect class="day level-2" x="628" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 20, 2026</title></rect>
+  <rect class="day level-2" x="628" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Jul 21, 2026</title></rect>
+  <rect class="day level-4" x="628" y="120" width="10" height="10" rx="2"><title>11-12 hrs on Jul 22, 2026</title></rect>
+  <rect class="day level-2" x="628" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 23, 2026</title></rect>
+  <rect class="day level-2" x="628" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 24, 2026</title></rect>
+  <rect class="day level-0" x="628" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Jul 25, 2026</title></rect>
+  <rect class="day level-2" x="641" y="81" width="10" height="10" rx="2"><title>4-8 hrs on Jul 26, 2026</title></rect>
+  <rect class="day level-2" x="641" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Jul 27, 2026</title></rect>
+  <rect class="day level-1" x="641" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Jul 28, 2026</title></rect>
+  <rect class="day level-2" x="641" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Jul 29, 2026</title></rect>
+  <rect class="day level-2" x="641" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Jul 30, 2026</title></rect>
+  <rect class="day level-2" x="641" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Jul 31, 2026</title></rect>
+  <rect class="day level-0" x="641" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 1, 2026</title></rect>
+  <rect class="day level-0" x="654" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 2, 2026</title></rect>
+  <rect class="day level-0" x="654" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Aug 3, 2026</title></rect>
+  <rect class="day level-1" x="654" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Aug 4, 2026</title></rect>
+  <rect class="day level-0" x="654" y="120" width="10" height="10" rx="2"><title>Under 1 hr on Aug 5, 2026</title></rect>
+  <rect class="day level-1" x="654" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Aug 6, 2026</title></rect>
+  <rect class="day level-0" x="654" y="146" width="10" height="10" rx="2"><title>Under 1 hr on Aug 7, 2026</title></rect>
+  <rect class="day level-0" x="654" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 8, 2026</title></rect>
+  <rect class="day level-0" x="667" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 9, 2026</title></rect>
+  <rect class="day level-1" x="667" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Aug 10, 2026</title></rect>
+  <rect class="day level-2" x="667" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Aug 11, 2026</title></rect>
+  <rect class="day level-3" x="667" y="120" width="10" height="10" rx="2"><title>9-10 hrs on Aug 12, 2026</title></rect>
+  <rect class="day level-5" x="667" y="133" width="10" height="10" rx="2"><title>13+ hrs on Aug 13, 2026</title></rect>
+  <rect class="day level-5" x="667" y="146" width="10" height="10" rx="2"><title>13+ hrs on Aug 14, 2026</title></rect>
+  <rect class="day level-0" x="667" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 15, 2026</title></rect>
+  <rect class="day level-0" x="680" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 16, 2026</title></rect>
+  <rect class="day level-1" x="680" y="94" width="10" height="10" rx="2"><title>1-3 hrs on Aug 17, 2026</title></rect>
+  <rect class="day level-2" x="680" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Aug 18, 2026</title></rect>
+  <rect class="day level-2" x="680" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Aug 19, 2026</title></rect>
+  <rect class="day level-2" x="680" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Aug 20, 2026</title></rect>
+  <rect class="day level-3" x="680" y="146" width="10" height="10" rx="2"><title>9-10 hrs on Aug 21, 2026</title></rect>
+  <rect class="day level-1" x="680" y="159" width="10" height="10" rx="2"><title>1-3 hrs on Aug 22, 2026</title></rect>
+  <rect class="day level-0" x="693" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 23, 2026</title></rect>
+  <rect class="day level-2" x="693" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Aug 24, 2026</title></rect>
+  <rect class="day level-2" x="693" y="107" width="10" height="10" rx="2"><title>4-8 hrs on Aug 25, 2026</title></rect>
+  <rect class="day level-2" x="693" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Aug 26, 2026</title></rect>
+  <rect class="day level-2" x="693" y="133" width="10" height="10" rx="2"><title>4-8 hrs on Aug 27, 2026</title></rect>
+  <rect class="day level-2" x="693" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Aug 28, 2026</title></rect>
+  <rect class="day level-0" x="693" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 29, 2026</title></rect>
+  <rect class="day level-0" x="706" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 30, 2026</title></rect>
   <text class="legend" x="540" y="194">Less</text>
   <rect class="day level-0" x="574" y="185" width="10" height="10" rx="2"><title>Under 1 hr</title></rect>
   <rect class="day level-1" x="588" y="185" width="10" height="10" rx="2"><title>1-3 hrs</title></rect>
