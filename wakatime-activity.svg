@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
   <title id="title">WakaTime activity last year</title>
-  <desc id="desc">Daily coding activity from Sep 1, 2025 – Aug 31, 2026</desc>
+  <desc id="desc">Daily coding activity from Sep 2, 2025 – Sep 1, 2026</desc>
   <style>
     .card { fill: #0d1117; stroke: #30363d; }
     .title { fill: #f0f6fc; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -30,8 +30,7 @@
   <text class="title" x="28" y="35">ACTIVITY LAST YEAR</text>
   <text class="source" x="692" y="35" text-anchor="end">WakaTime</text>
   <line x1="28" y1="51" x2="692" y2="51" stroke="#30363d"/>
-  <text class="axis" x="30" y="72">Sep<title>September 2025</title></text>
-  <text class="axis" x="95" y="72">Oct<title>October 2025</title></text>
+  <text class="axis" x="82" y="72">Oct<title>October 2025</title></text>
   <text class="axis" x="147" y="72">Nov<title>November 2025</title></text>
   <text class="axis" x="212" y="72">Dec<title>December 2025</title></text>
   <text class="axis" x="264" y="72">Jan<title>January 2026</title></text>
@@ -42,10 +41,10 @@
   <text class="axis" x="550" y="72">Jun<title>June 2026</title></text>
   <text class="axis" x="602" y="72">Jul<title>July 2026</title></text>
   <text class="axis" x="654" y="72">Aug<title>August 2026</title></text>
+  <text class="axis" x="719" y="72">Sep<title>September 2026</title></text>
   <text class="axis" x="0" y="103">Mon</text>
   <text class="axis" x="0" y="129">Wed</text>
   <text class="axis" x="0" y="155">Fri</text>
-  <rect class="day level-0" x="30" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Sep 1, 2025</title></rect>
   <rect class="day level-0" x="30" y="107" width="10" height="10" rx="2"><title>Under 1 hr on Sep 2, 2025</title></rect>
   <rect class="day level-2" x="30" y="120" width="10" height="10" rx="2"><title>4-8 hrs on Sep 3, 2025</title></rect>
   <rect class="day level-1" x="30" y="133" width="10" height="10" rx="2"><title>1-3 hrs on Sep 4, 2025</title></rect>
@@ -409,7 +408,8 @@
   <rect class="day level-2" x="693" y="146" width="10" height="10" rx="2"><title>4-8 hrs on Aug 28, 2026</title></rect>
   <rect class="day level-0" x="693" y="159" width="10" height="10" rx="2"><title>Under 1 hr on Aug 29, 2026</title></rect>
   <rect class="day level-0" x="706" y="81" width="10" height="10" rx="2"><title>Under 1 hr on Aug 30, 2026</title></rect>
-  <rect class="day level-0" x="706" y="94" width="10" height="10" rx="2"><title>Under 1 hr on Aug 31, 2026</title></rect>
+  <rect class="day level-2" x="706" y="94" width="10" height="10" rx="2"><title>4-8 hrs on Aug 31, 2026</title></rect>
+  <rect class="day level-1" x="706" y="107" width="10" height="10" rx="2"><title>1-3 hrs on Sep 1, 2026</title></rect>
   <text class="legend" x="540" y="194">Less</text>
   <rect class="day level-0" x="574" y="185" width="10" height="10" rx="2"><title>Under 1 hr</title></rect>
   <rect class="day level-1" x="588" y="185" width="10" height="10" rx="2"><title>1-3 hrs</title></rect>
