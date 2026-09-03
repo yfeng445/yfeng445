@@ -19,7 +19,7 @@
   </style>
   <rect class="card" x="0.5" y="0.5" width="719" height="285" rx="10"/>
   <text class="title" x="28" y="38">WakaTime</text>
-  <text class="subtitle" x="28" y="61">since May 20 2024 · 889 hrs 54 mins total · 2 hrs 8 mins daily average</text>
+  <text class="subtitle" x="28" y="61">since May 20 2024 · 892 hrs 3 mins total · 2 hrs 8 mins daily average</text>
   <line x1="28" y1="78" x2="692" y2="78" stroke="#30363d"/>
   <text class="heading" x="28" y="101">Top languages</text>
   <text class="heading" x="382" y="101">Work on · platforms</text>
@@ -35,7 +35,7 @@
     <text class="label" x="28" y="182">C</text>
     <text class="value" x="338" y="182" text-anchor="end">19h 45m · 3.0%</text>
     <rect class="track" x="28" y="190" width="310" height="7" rx="3.5"/>
-    <rect x="28" y="190" width="9.3" height="7" rx="3.5" fill="#3fb950"/>
+    <rect x="28" y="190" width="9.2" height="7" rx="3.5" fill="#3fb950"/>
     <text class="label" x="28" y="213">Cuda</text>
     <text class="value" x="338" y="213" text-anchor="end">19h 38m · 3.0%</text>
     <rect class="track" x="28" y="221" width="310" height="7" rx="3.5"/>
@@ -48,11 +48,11 @@
     <text class="label" x="382" y="120">Windows</text>
     <text class="value" x="692" y="120" text-anchor="end">618h · 70%</text>
     <rect class="track" x="382" y="128" width="310" height="7" rx="3.5"/>
-    <rect x="382" y="128" width="217.9" height="7" rx="3.5" fill="#58a6ff"/>
+    <rect x="382" y="128" width="217.3" height="7" rx="3.5" fill="#58a6ff"/>
     <text class="label" x="382" y="151">macOS</text>
-    <text class="value" x="692" y="151" text-anchor="end">161h · 18%</text>
+    <text class="value" x="692" y="151" text-anchor="end">164h · 19%</text>
     <rect class="track" x="382" y="159" width="310" height="7" rx="3.5"/>
-    <rect x="382" y="159" width="57.0" height="7" rx="3.5" fill="#a371f7"/>
+    <rect x="382" y="159" width="57.6" height="7" rx="3.5" fill="#a371f7"/>
     <text class="label" x="382" y="182">Linux</text>
     <text class="value" x="692" y="182" text-anchor="end">61h 23m · 7.0%</text>
     <rect class="track" x="382" y="190" width="310" height="7" rx="3.5"/>
